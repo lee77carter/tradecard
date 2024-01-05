@@ -1,0 +1,10 @@
+.breakpoints
+.cache
+.config
+.replit
+.upm
+instance
+poetry.lock
+replit.nix
+replit_zip_error_log.txt
+venv
