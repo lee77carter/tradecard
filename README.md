@@ -1,6 +1,6 @@
 # repo-name-here
 
- ![alt-text-here](img/your-image-here.png)
+ ![alt-text-here](img/trade-cards.png)
 
 
 Description-here: A mobile-friendly website template crafted for Rogue Pickings Company.
